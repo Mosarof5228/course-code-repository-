@@ -10,7 +10,9 @@
 //tar mane JSON javascript er object er motoi but object na.
 //JASON sob somoy js object er moto kore string return kore.
 //JASON er property and value "" er bitore thake without number and boolean.
-
+//JASON hocce independent ati kono programing language er
+//sompotti na.
+//jehoto JSON text format ti sob language boje ty tara server theke data adan prodan korte JSON use kore thake.
 
 //example:1
 const user = {
